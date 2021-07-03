@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "namespace": false,
   "bsc-flags": ["-bs-super-errors", "-bs-no-version-header"],
-  "refmt": 3,
   "package-specs": [
     {
       "module": "commonjs"
